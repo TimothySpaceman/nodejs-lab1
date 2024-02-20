@@ -1,0 +1,22 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "languages": [
+        {
+            "title": "JS",
+            "level": "Advanced"
+        },
+        {
+            "title": "TS",
+            "level": "Intermediate"
+        },
+        {
+            "title": "C#",
+            "level": "Intermediate"
+        },
+        {
+            "title": "Python",
+            "level": "Hate"
+        }
+    ]
+}
